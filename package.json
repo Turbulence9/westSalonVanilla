@@ -1,0 +1,19 @@
+{
+  "name": "westsalonvanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turbulence9/westSalonVanilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turbulence9/westSalonVanilla/issues"
+  },
+  "homepage": "https://github.com/Turbulence9/westSalonVanilla#readme"
+}
